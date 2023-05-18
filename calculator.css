@@ -1,0 +1,39 @@
+#clock{
+    background-color: black;
+    color: red;
+    font-size: 30px;
+}
+.calc{
+    border: rgb(214, 167, 167);
+    /* border-style: solid; */
+    width: 500px;
+    height: 350px;
+    /* background-color: green; */
+}
+#display{
+    background-color: yellow;
+    border: green;
+    border-style: solid;
+    height: 25px;
+    padding: 2.5px;
+}
+#btna,#btns,#btnm,#btnd{
+    font-size: 25px;
+}
+
+.row{
+    display: flex;
+
+}
+.btn{
+    height: 50px;
+    width: 125px;
+}
+#btn0{
+    height: 50px;
+    width: 250px;
+}
+#hid{
+    /* display:none */
+    width: 125px;
+}
